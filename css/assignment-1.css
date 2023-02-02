@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+}
+h3{
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+/*img size*/
+img{
+    width: 100px;
+}
+/*table border*/
+table, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+    padding: 10px 50px;
+}
+.cup-bg{
+    background-color: rgb(205, 201, 201);
+}
+/*adding padding top to No.2 tips to help*/
+.tips{
+    padding-top: 10px;
+}
